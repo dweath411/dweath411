@@ -28,13 +28,13 @@
     <td>Data Science and Machine Learning</td>
     <td>
       <img src="https://img.shields.io/badge/Sci--kit%20learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=keras&logoColor=white"/>
       <img src="https://img.shields.io/badge/MLflow-%231E4C5C.svg?style=flat-square&logo=mlflow&logoColor=white"/>
       <img src="https://img.shields.io/badge/NLP-%23000000.svg?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/LLAMA--2-%232769AF.svg?style=flat-square&logo=llama&logoColor=white"/>
-      <img src="https://img.shields.io/badge/BERT-%2349B4E6.svg?style=flat-square&logo=bert&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GPT-%237FBB00.svg?style=flat-square&logo=gpt&logoColor=white"/>
       <img src="https://img.shields.io/badge/XGBoost-%23FF6600.svg?style=flat-square&logo=xgboost&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Deep%20Learning-%23007ACC.svg?style=flat-square&logo=deeplearning&logoColor=white"/>
     </td>
   </tr>
 
@@ -50,14 +50,17 @@
   </tr>
 
   <tr>
-    <td>Tools</td>
+    <td>Development and Tools</td>
     <td>
       <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white"/>
       <img src="https://img.shields.io/badge/Azure%20Databricks-%230072C6.svg?style=flat-square&logo=databricks&logoColor=white"/>
       <img src="https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?style=flat-square&logo=apache-spark&logoColor=white"/>
       <img src="https://img.shields.io/badge/Spyder%20IDE-%231E4C5C.svg?style=flat-square&logo=spyder-ide&logoColor=white"/>
+       <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat-square&logo=jupyter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/RStudio-%235C55E6.svg?style=flat-square&logo=rstudio&logoColor=white"/>
     </td>
   </tr>
+  
 </table>
 
 ### 🏆 Project Experiences
@@ -69,8 +72,8 @@ To see my projects and achievements, check out my GitHub profile:
 **Highlighted Projects:**
 
 - **Machine Learning DoorDash Delivery Duration**
-- Technologies Used: Python, Jupyter Notebook, Deep Learning (Keras, Tensorflow), Sklearn, ML Models
-- Description: A DoorDash delivery duration prediction project, using multiple ML models, data visualization, analysis, and deep learning.
+  - Technologies Used: Python, Jupyter Notebook, Deep Learning (Keras, Tensorflow), Sklearn, ML Models
+  - Description: A DoorDash delivery duration prediction project, using multiple ML models, data visualization, analysis, and deep learning.
 
 - **Video Game Data Analysis**
   - Technologies Used: Python, R, MS Excel, Spyder IDE
