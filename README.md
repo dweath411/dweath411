@@ -65,9 +65,9 @@
 
 ### 🏆 Project Experiences
 
-To see my projects and achievements, check out my GitHub profile:
+To see my projects and achievements, check out my GitHub portfolio:
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dweath411)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dweath411/Deriens-Project-Portfolio)
 
 **Highlighted Projects:**
 
@@ -87,7 +87,7 @@ To see my projects and achievements, check out my GitHub profile:
   - Technologies Used: R, Machine Learning, Predictive Modeling
   - Description: Metric-based predictive modeling project aimed at predicting housing prices in Iowa using various machine learning algorithms.
 
-## 🤝 Connect with me!!
+## 🤝 Connect with me!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/derienweatherspoon)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:djamesw411@gmail.com)
