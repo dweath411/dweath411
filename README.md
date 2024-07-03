@@ -68,6 +68,10 @@ To see my projects and achievements, check out my GitHub profile:
 
 **Highlighted Projects:**
 
+- **Machine Learning DoorDash Delivery Duration**
+- Technologies Used: Python, Jupyter Notebook, Deep Learning (Keras, Tensorflow), Sklearn, ML Models
+- Description: A DoorDash delivery duration prediction project, using multiple ML models, data visualization, analysis, and deep learning.
+
 - **Video Game Data Analysis**
   - Technologies Used: Python, R, MS Excel, Spyder IDE
   - Description: Comprehensive data analysis employing various statistical techniques and machine learning algorithms.
