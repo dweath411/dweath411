@@ -30,22 +30,10 @@
       <img src="https://img.shields.io/badge/Sci--kit%20learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white"/>
       <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white"/>
       <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=keras&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MLflow-%231E4C5C.svg?style=flat-square&logo=mlflow&logoColor=white"/>
       <img src="https://img.shields.io/badge/NLP-%23000000.svg?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/LLAMA--2-%232769AF.svg?style=flat-square&logo=llama&logoColor=white"/>
       <img src="https://img.shields.io/badge/XGBoost-%23FF6600.svg?style=flat-square&logo=xgboost&logoColor=white"/>
       <img src="https://img.shields.io/badge/Deep%20Learning-%23007ACC.svg?style=flat-square&logo=deeplearning&logoColor=white"/>
-    </td>
-  </tr>
-
-  <tr>
-    <td>Data Analysis and Visualization</td>
-    <td>
-      <img src="https://img.shields.io/badge/Tableau-%23E97627.svg?style=flat-square&logo=tableau&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=flat-square&logo=power-bi&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Bayesian%20Methods-%232093FF.svg?style=flat-square&logo=bayesian-methods&logoColor=white"/>
-      <img src="https://img.shields.io/badge/A/B%20Testing-%23FF6600.svg?style=flat-square&logo=ab-testing&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Data%20Pipelines-%231572B6.svg?style=flat-square&logo=data-pipelines&logoColor=white"/>
     </td>
   </tr>
 
@@ -57,7 +45,6 @@
       <img src="https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?style=flat-square&logo=apache-spark&logoColor=white"/>
       <img src="https://img.shields.io/badge/Spyder%20IDE-%231E4C5C.svg?style=flat-square&logo=spyder-ide&logoColor=white"/>
        <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat-square&logo=jupyter&logoColor=white"/>
-      <img src="https://img.shields.io/badge/RStudio-%235C55E6.svg?style=flat-square&logo=rstudio&logoColor=white"/>
     </td>
   </tr>
   
