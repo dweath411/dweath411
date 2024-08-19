@@ -76,10 +76,6 @@ To see my projects and achievements, check out my GitHub portfolio:
   - Technologies Used: R, SQL, Machine Learning, Predictive Modeling
   - Description: Predictive modeling project forecasting the happiness index of countries, achieving over 90% accuracy.
 
-- **House Pricing in Iowa**
-  - Technologies Used: R, Machine Learning, Predictive Modeling
-  - Description: Metric-based predictive modeling project aimed at predicting housing prices in Iowa using various machine learning algorithms.
-
 ## 🤝 Connect with me!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/derienweatherspoon)
