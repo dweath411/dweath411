@@ -21,6 +21,9 @@
       <img src="https://img.shields.io/badge/R-%23276DC3.svg?style=flat-square&logo=r&logoColor=white"/>
       <img src="https://img.shields.io/badge/SQL-%2300f.svg?style=flat-square&logo=sqlite&logoColor=white"/>
       <img src="https://img.shields.io/badge/Julia-%231A1A1A.svg?style=flat-square&logo=julia&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white"/>
+      <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/>
     </td>
   </tr>
 
@@ -33,7 +36,6 @@
       <img src="https://img.shields.io/badge/NLP-%23000000.svg?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/LLAMA--2-%232769AF.svg?style=flat-square&logo=llama&logoColor=white"/>
       <img src="https://img.shields.io/badge/XGBoost-%23FF6600.svg?style=flat-square&logo=xgboost&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Deep%20Learning-%23007ACC.svg?style=flat-square&logo=deeplearning&logoColor=white"/>
     </td>
   </tr>
 
