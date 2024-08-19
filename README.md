@@ -60,6 +60,10 @@ To see my projects and achievements, check out my GitHub portfolio:
 
 **Highlighted Projects:**
 
+- **To-Do-List Application**
+  - Technologies Used: Java, HTML, CSS, VSCode, Git, Spring Boot, Thyme Leaf
+  - Description: A To-Do list aimed to be a beginner level software development guided project, with heavy commented code to provide a basis of learning for future projects.
+  
 - **Machine Learning DoorDash Delivery Duration**
   - Technologies Used: Python, Jupyter Notebook, Deep Learning (Keras, Tensorflow), Sklearn, ML Models
   - Description: A DoorDash delivery duration prediction project, using multiple ML models, data visualization, analysis, and deep learning.
