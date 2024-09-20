@@ -1,10 +1,5 @@
 ### Hi there, I'm Derien Weatherspoon 👋
 
-<img src='https://media.licdn.com/dms/image/D5616AQGh1ob8JvtYMQ/profile-displaybackgroundimage-shrink_350_1400/0/1719090937681?e=1724889600&v=beta&t=M5rimIaWciZql6BxgT3ZcY-EZbvMwYLb_ukycEomWro' title='Derien Weatherspoon' width='50%' alt='My Intro' />
-
-![](https://github.com/dweath411/stats/blob/master/generated/overview.svg)
-![](https://github.com/dweath411/stats/blob/master/generated/languages.svg)
-
 ### About Me
 
 - 👋 Hi, I'm Derien! I'm a Data Scientist and AI Associate.
@@ -20,7 +15,6 @@
       <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
       <img src="https://img.shields.io/badge/R-%23276DC3.svg?style=flat-square&logo=r&logoColor=white"/>
       <img src="https://img.shields.io/badge/SQL-%2300f.svg?style=flat-square&logo=sqlite&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Julia-%231A1A1A.svg?style=flat-square&logo=julia&logoColor=white"/>
       <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white"/>
       <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/>
       <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/>
