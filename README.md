@@ -54,6 +54,10 @@ To see my projects and achievements, check out my GitHub portfolio:
 
 **Highlighted Projects:**
 
+- **Spotify Playlist Dashboard**
+  - Technologies used: Python, HTML, SQL, CSS, Flask, websockets, SpotifyAPI
+  - Description: a web application that allows users to create personalized weekly playlists and more based on their existing Spotify library.
+  
 - **To-Do-List Application**
   - Technologies Used: Java, HTML, CSS, VSCode, Git, Spring Boot, Thyme Leaf
   - Description: A To-Do list aimed to be a beginner level software development guided project, with heavy commented code to provide a basis of learning for future projects.
