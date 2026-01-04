@@ -2,9 +2,9 @@
 
 ### About Me
 
-- 👋 Hi, I'm Derien! I'm a Data Scientist and AI Associate.
+- 👋 Hi, I'm Derien! I'm a Artificial Intelligence Engineer / Data Scientist!
 - 🎓 Bachelor of Science in Statistics @ Michigan State University
-- 🛠️ I'm currently working at Jackson National Life, focusing on sentiment analysis and chatbot development.
+- 🛠️ I'm currently working at Jackson National Life, focusing on delivering usable applications.
 - ⚡ Check out my <a href="https://www.linkedin.com/in/derienweatherspoon/" target="_blank" rel="noreferrer noopener">LinkedIn 🔵</a>!
 
 ### ⚡ Languages and Frameworks
